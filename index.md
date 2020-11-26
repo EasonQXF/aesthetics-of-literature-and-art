@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 文艺美学海报设计作品——“real-hiphop”
 
-You can use the [editor on GitHub](https://github.com/EasonQXF/aesthetics-of-literature-and-art/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 作品文字说明：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+嘻哈文化逐渐走上大众的视野，这也是嘻哈文化之美被人们逐渐认可和接受的表现。我设计的作品名称是“real-hiphop”，那便是嘻哈文化之美中的嘻哈精神之美——真实。
 
-### Markdown
+背景主要以紫红色和蓝色为基调，还有说唱歌手表演以及观众在台下呐喊的影像，配色符合嘻哈流行的象征性颜色，以及体现出嘻哈文化现在受人们欢迎的感觉。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+中间的主要元素是一个嘻哈人物半身，周围用白色字体加上绿色阴影形成的字幕环绕任务。人物用彩色碎片拼凑而成，旨在说明，嘻哈文化是十分多元化的而且必定存在不完美，但是正是嘻哈精神的真实，说唱歌手们能够有勇气把自己的真实一面表达出来，尽管这不完美。
 
-```markdown
-Syntax highlighted code block
+海报界面还有总共四句歌词，是选取了比较具有代表性的歌手的歌词。进一步用具体的事物来表达说唱歌手将嘻哈文化，嘻哈精神融入自己作品中的表现。
 
-# Header 1
-## Header 2
-### Header 3
+### 海报展示：
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasonQXF/aesthetics-of-literature-and-art/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![real-hiphop](https://gitee.com/EdisonQXF/aesthetics-of-literature-and-art/raw/master/real%20hiphop.png)
